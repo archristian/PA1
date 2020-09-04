@@ -1,0 +1,12 @@
+/Users/alexchristian/Documents/repos/PA1/bin/Debug/netcoreapp3.1/PA1.deps.json
+/Users/alexchristian/Documents/repos/PA1/bin/Debug/netcoreapp3.1/PA1.runtimeconfig.json
+/Users/alexchristian/Documents/repos/PA1/bin/Debug/netcoreapp3.1/PA1.runtimeconfig.dev.json
+/Users/alexchristian/Documents/repos/PA1/bin/Debug/netcoreapp3.1/PA1.dll
+/Users/alexchristian/Documents/repos/PA1/bin/Debug/netcoreapp3.1/PA1.pdb
+/Users/alexchristian/Documents/repos/PA1/obj/Debug/netcoreapp3.1/PA1.csprojAssemblyReference.cache
+/Users/alexchristian/Documents/repos/PA1/obj/Debug/netcoreapp3.1/PA1.AssemblyInfoInputs.cache
+/Users/alexchristian/Documents/repos/PA1/obj/Debug/netcoreapp3.1/PA1.AssemblyInfo.cs
+/Users/alexchristian/Documents/repos/PA1/obj/Debug/netcoreapp3.1/PA1.csproj.CoreCompileInputs.cache
+/Users/alexchristian/Documents/repos/PA1/obj/Debug/netcoreapp3.1/PA1.dll
+/Users/alexchristian/Documents/repos/PA1/obj/Debug/netcoreapp3.1/PA1.pdb
+/Users/alexchristian/Documents/repos/PA1/obj/Debug/netcoreapp3.1/PA1.genruntimeconfig.cache
